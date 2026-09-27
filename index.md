@@ -4,4 +4,3 @@ I'm here, ready for the Cybersecurity world
 
 ## 我的 Writeups
 - [Bugku CTF Web 入门：滑稽题解](writeups/bugku-huaji.md)
-- [Bugku CTF Web 入门：计算器题解](writeups/bugku-calculator.md)
