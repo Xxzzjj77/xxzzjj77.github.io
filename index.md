@@ -29,5 +29,7 @@
 - **安全启示**：不要将任何敏感信息写在前端代码中，必须经过服务端严格校验和过滤。
 
 通过这道题，我熟悉了浏览器开发者工具的使用，也明白了“凡事不要看表面，要看底层的代码逻辑”这个道理。
-
+## 我的 Writeups
+- [Bugku - 滑稽题解](writeups/bugku-huaji.md)
 *Keep calm and hack the planet!*
+
